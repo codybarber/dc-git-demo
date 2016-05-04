@@ -19,3 +19,4 @@ And another one
 More
 =======
 >>>>>>> parent of d823831... Made another change.
+# dc-git-demo
